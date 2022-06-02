@@ -1,0 +1,30 @@
+{
+  "term": "Spring",
+  "year": "2028",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "june-2-site-a"
+  },
+  "course_image": {
+    "content": "",
+    "website": "june-2-site-a"
+  },
+  "course_title": "meta",
+  "course_description": "lol",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "june-2-site-a"
+  },
+  "learning_resource_types": [],
+  "site_uid": "7d1e9110-2c0e-4242-bc9f-f4c773b79591"
+}
